@@ -10,7 +10,7 @@ class FICExpandeedWidget extends StatelessWidget {
       body: Padding(
           padding: const EdgeInsets.all(10),
           child: Column(
-            children: const [],
+            children: const [Text("ikan goreng")],
           )),
     );
   }
